@@ -1,0 +1,11 @@
+/root/travis/TravisCI/bin/Debug/netcoreapp2.1/TravisCI.deps.json
+/root/travis/TravisCI/bin/Debug/netcoreapp2.1/TravisCI.runtimeconfig.json
+/root/travis/TravisCI/bin/Debug/netcoreapp2.1/TravisCI.runtimeconfig.dev.json
+/root/travis/TravisCI/bin/Debug/netcoreapp2.1/TravisCI.dll
+/root/travis/TravisCI/bin/Debug/netcoreapp2.1/TravisCI.pdb
+/root/travis/TravisCI/obj/Debug/netcoreapp2.1/TravisCI.csprojAssemblyReference.cache
+/root/travis/TravisCI/obj/Debug/netcoreapp2.1/TravisCI.csproj.CoreCompileInputs.cache
+/root/travis/TravisCI/obj/Debug/netcoreapp2.1/TravisCI.AssemblyInfoInputs.cache
+/root/travis/TravisCI/obj/Debug/netcoreapp2.1/TravisCI.AssemblyInfo.cs
+/root/travis/TravisCI/obj/Debug/netcoreapp2.1/TravisCI.dll
+/root/travis/TravisCI/obj/Debug/netcoreapp2.1/TravisCI.pdb
